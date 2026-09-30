@@ -1,0 +1,39 @@
+{
+  "raw_text": "There are around 5 people injured. Not sure exactly where, somewhere near the market.",
+  "expected_incident_state": {
+    "incident_schema_version": "1.0",
+    "incident_id": null,
+    "location": { "text": "somewhere near the market", "normalized": null },
+    "patient_count": 5,
+    "observed_conditions": ["injured"],
+    "equipment_requirements": [],
+    "reported_time": null,
+    "incident_type": null,
+    "severity_cues": [],
+    "priority_features": [],
+    "priority_cues": null,
+    "uncertainty": 0.65,
+    "missing_decision_critical_fields": ["location", "patient_count"],
+    "evidence": [
+      { "field": "patient_count", "quote": "around 5 people injured", "confidence": 0.5 }
+    ],
+    "raw_text": "There are around 5 people injured. Not sure exactly where, somewhere near the market."
+  },
+  "expected_ambiguity_result": {
+    "needs_clarification": true,
+    "questions": [
+      {
+        "question": "How many patients are confirmed?",
+        "why_it_matters": "Patient count may affect ambulance capacity and assignment.",
+        "possible_decision_change": "A second ambulance may be required.",
+        "priority": "HIGH"
+      },
+      {
+        "question": "Can you confirm the exact location or nearest landmark?",
+        "why_it_matters": "Location determines routing and which ambulance/hospital is closest.",
+        "possible_decision_change": "A different ambulance or hospital may need to be selected.",
+        "priority": "HIGH"
+      }
+    ]
+  }
+}

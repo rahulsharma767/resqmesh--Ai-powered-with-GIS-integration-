@@ -1,0 +1,24 @@
+{
+  "raw_text": "There are around 4 people injured near Bandra station. One person is unconscious and another has severe bleeding. Please send help quickly.",
+  "expected_incident_state": {
+    "incident_schema_version": "1.0",
+    "incident_id": null,
+    "location": { "text": "Bandra station", "normalized": null },
+    "patient_count": 4,
+    "observed_conditions": ["injured", "unconscious", "severe bleeding"],
+    "equipment_requirements": [],
+    "reported_time": null,
+    "incident_type": "accident",
+    "severity_cues": ["unconscious", "severe bleeding"],
+    "priority_features": ["loss_of_consciousness", "active_bleeding"],
+    "priority_cues": { "urgency": "HIGH", "reason": "Reported unconscious patient and severe bleeding" },
+    "uncertainty": 0.2,
+    "missing_decision_critical_fields": [],
+    "evidence": [
+      { "field": "patient_count", "quote": "around 4 people injured", "confidence": 0.7 },
+      { "field": "observed_conditions", "quote": "one person is unconscious", "confidence": 0.9 },
+      { "field": "observed_conditions", "quote": "severe bleeding", "confidence": 0.9 }
+    ],
+    "raw_text": "There are around 4 people injured near Bandra station. One person is unconscious and another has severe bleeding. Please send help quickly."
+  }
+}

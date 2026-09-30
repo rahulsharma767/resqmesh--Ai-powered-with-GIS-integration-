@@ -1,0 +1,47 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "IncidentState",
+  "description": "Canonical contract from Person 1 (AI/LLM workflow) to Person 2 (deterministic engine). Version 1.0 — do not change field names/types without bumping incident_schema_version.",
+  "type": "object",
+  "required": ["incident_schema_version", "location", "observed_conditions", "equipment_requirements", "severity_cues", "priority_features", "uncertainty", "missing_decision_critical_fields", "evidence"],
+  "properties": {
+    "incident_schema_version": { "type": "string", "const": "1.0" },
+    "incident_id": { "type": ["string", "null"] },
+    "location": {
+      "type": "object",
+      "properties": {
+        "text": { "type": ["string", "null"] },
+        "normalized": { "type": ["string", "null"] }
+      }
+    },
+    "patient_count": { "type": ["integer", "null"], "minimum": 0 },
+    "observed_conditions": { "type": "array", "items": { "type": "string" } },
+    "equipment_requirements": { "type": "array", "items": { "type": "string" } },
+    "reported_time": { "type": ["string", "null"] },
+    "incident_type": { "type": ["string", "null"] },
+    "severity_cues": { "type": "array", "items": { "type": "string" } },
+    "priority_features": { "type": "array", "items": { "type": "string" } },
+    "priority_cues": {
+      "type": ["object", "null"],
+      "properties": {
+        "urgency": { "type": "string", "enum": ["LOW", "MEDIUM", "HIGH", "CRITICAL"] },
+        "reason": { "type": "string" }
+      }
+    },
+    "uncertainty": { "type": "number", "minimum": 0.0, "maximum": 1.0 },
+    "missing_decision_critical_fields": { "type": "array", "items": { "type": "string" } },
+    "evidence": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "field": { "type": "string" },
+          "quote": { "type": "string" },
+          "confidence": { "type": "number", "minimum": 0.0, "maximum": 1.0 }
+        },
+        "required": ["field", "quote", "confidence"]
+      }
+    },
+    "raw_text": { "type": ["string", "null"] }
+  }
+}

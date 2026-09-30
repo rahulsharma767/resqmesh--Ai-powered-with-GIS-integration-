@@ -1,0 +1,28 @@
+{
+  "model": "multinomial_logistic_regression",
+  "features": [
+    "number_of_patients",
+    "unconscious_count",
+    "critical_count",
+    "injury_severity",
+    "fire_present",
+    "accident_type",
+    "traffic_level",
+    "road_block_probability",
+    "distance_to_nearest_ambulance",
+    "hospital_capacity",
+    "icu_availability",
+    "emergency_availability",
+    "time_of_day",
+    "location_context",
+    "route_eta_minutes"
+  ],
+  "classes": {
+    "0": "LOW",
+    "1": "HIGH",
+    "2": "CRITICAL"
+  },
+  "training_data": "synthetic simulation data; not clinical data",
+  "samples": 6000,
+  "seed": 20260930
+}

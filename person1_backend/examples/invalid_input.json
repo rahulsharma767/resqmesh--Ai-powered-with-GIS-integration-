@@ -1,0 +1,50 @@
+{
+  "description": "Examples of IncidentState objects that MUST fail Pydantic/JSON-Schema validation. Used in tests/test_schema.py.",
+  "invalid_examples": [
+    {
+      "reason": "negative patient_count",
+      "incident_state": {
+        "incident_schema_version": "1.0",
+        "location": { "text": "MG Road" },
+        "patient_count": -2,
+        "observed_conditions": [],
+        "equipment_requirements": [],
+        "severity_cues": [],
+        "priority_features": [],
+        "uncertainty": 0.1,
+        "missing_decision_critical_fields": [],
+        "evidence": []
+      }
+    },
+    {
+      "reason": "uncertainty out of [0,1] range",
+      "incident_state": {
+        "incident_schema_version": "1.0",
+        "location": { "text": "MG Road" },
+        "patient_count": 2,
+        "observed_conditions": [],
+        "equipment_requirements": [],
+        "severity_cues": [],
+        "priority_features": [],
+        "uncertainty": 1.7,
+        "missing_decision_critical_fields": [],
+        "evidence": []
+      }
+    },
+    {
+      "reason": "evidence item missing required 'quote' field",
+      "incident_state": {
+        "incident_schema_version": "1.0",
+        "location": { "text": "MG Road" },
+        "patient_count": 2,
+        "observed_conditions": [],
+        "equipment_requirements": [],
+        "severity_cues": [],
+        "priority_features": [],
+        "uncertainty": 0.1,
+        "missing_decision_critical_fields": [],
+        "evidence": [ { "field": "patient_count", "confidence": 0.5 } ]
+      }
+    }
+  ]
+}

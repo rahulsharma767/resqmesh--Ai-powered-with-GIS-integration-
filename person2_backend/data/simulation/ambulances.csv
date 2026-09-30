@@ -1,0 +1,151 @@
+ambulance_id,latitude,longitude,status,ambulance_type,equipment,capacity,current_location_node,is_simulated
+AMB-001,19.1383106,72.8511112,AVAILABLE,BASIC,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board""]",1,13729389764,True
+AMB-002,19.0082764,73.0287102,AVAILABLE,ALS,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board"", ""defibrillator"", ""cardiac_monitor"", ""iv_therapy"", ""advanced_airway""]",1,11183237776,True
+AMB-003,18.9590960,72.8012219,AVAILABLE,BASIC,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board""]",1,13697803396,True
+AMB-004,19.1168895,73.0590882,AVAILABLE,ICU,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board"", ""defibrillator"", ""cardiac_monitor"", ""iv_therapy"", ""advanced_airway"", ""ventilator"", ""infusion_pump"", ""icu_grade_monitoring""]",2,12406468142,True
+AMB-005,19.1483724,72.9351577,AVAILABLE,BASIC,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board""]",1,13523541446,True
+AMB-006,19.0442534,73.0313830,BUSY,ICU,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board"", ""defibrillator"", ""cardiac_monitor"", ""iv_therapy"", ""advanced_airway"", ""ventilator"", ""infusion_pump"", ""icu_grade_monitoring""]",2,2245082149,True
+AMB-007,19.2397122,72.9461302,AVAILABLE,ICU,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board"", ""defibrillator"", ""cardiac_monitor"", ""iv_therapy"", ""advanced_airway"", ""ventilator"", ""infusion_pump"", ""icu_grade_monitoring""]",2,7305259205,True
+AMB-008,19.1342590,72.8128744,AVAILABLE,BASIC,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board""]",1,3933838458,True
+AMB-009,19.1552784,72.8853992,OFFLINE,ICU,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board"", ""defibrillator"", ""cardiac_monitor"", ""iv_therapy"", ""advanced_airway"", ""ventilator"", ""infusion_pump"", ""icu_grade_monitoring""]",2,7299241367,True
+AMB-010,19.0420370,72.8426453,AVAILABLE,BASIC,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board""]",1,13508185868,True
+AMB-011,19.1009831,72.8614494,AVAILABLE,BASIC,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board""]",1,2244637223,True
+AMB-012,19.1281756,72.8885657,BUSY,BASIC,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board""]",1,2236679247,True
+AMB-013,19.1966255,73.0993842,AVAILABLE,BASIC,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board""]",1,13681822934,True
+AMB-014,19.1114221,72.8487609,AVAILABLE,BASIC,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board""]",1,8678270547,True
+AMB-015,19.1119921,72.8579939,OFFLINE,ALS,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board"", ""defibrillator"", ""cardiac_monitor"", ""iv_therapy"", ""advanced_airway""]",1,13457469097,True
+AMB-016,19.2927189,72.9965580,AVAILABLE,ALS,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board"", ""defibrillator"", ""cardiac_monitor"", ""iv_therapy"", ""advanced_airway""]",1,2245096798,True
+AMB-017,19.2054529,73.0878176,BUSY,ALS,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board"", ""defibrillator"", ""cardiac_monitor"", ""iv_therapy"", ""advanced_airway""]",1,2232929519,True
+AMB-018,19.0327451,72.8588244,BUSY,BASIC,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board""]",1,1179093374,True
+AMB-019,19.0512490,72.8615669,BUSY,ALS,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board"", ""defibrillator"", ""cardiac_monitor"", ""iv_therapy"", ""advanced_airway""]",1,13854869618,True
+AMB-020,18.9517208,72.8306056,AVAILABLE,ALS,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board"", ""defibrillator"", ""cardiac_monitor"", ""iv_therapy"", ""advanced_airway""]",1,245655155,True
+AMB-021,19.2055721,73.0112192,AVAILABLE,BASIC,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board""]",1,2230421338,True
+AMB-022,19.0107616,72.8683467,AVAILABLE,ALS,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board"", ""defibrillator"", ""cardiac_monitor"", ""iv_therapy"", ""advanced_airway""]",1,2715411997,True
+AMB-023,19.2583531,72.9683015,AVAILABLE,BASIC,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board""]",1,12301345846,True
+AMB-024,19.1933893,72.9913176,AVAILABLE,BASIC,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board""]",1,2228291393,True
+AMB-025,18.9954453,72.8374236,AVAILABLE,BASIC,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board""]",1,13801898924,True
+AMB-026,18.9768902,72.8440867,AVAILABLE,BASIC,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board""]",1,7379493809,True
+AMB-027,19.1366090,72.8612249,AVAILABLE,BASIC,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board""]",1,13437642851,True
+AMB-028,19.2163430,72.8501966,BUSY,ICU,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board"", ""defibrillator"", ""cardiac_monitor"", ""iv_therapy"", ""advanced_airway"", ""ventilator"", ""infusion_pump"", ""icu_grade_monitoring""]",2,4357098626,True
+AMB-029,19.2525486,72.8668669,AVAILABLE,BASIC,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board""]",1,13460263021,True
+AMB-030,19.0524590,72.9284169,AVAILABLE,BASIC,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board""]",1,2248884741,True
+AMB-031,18.9589658,72.8215284,BUSY,BASIC,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board""]",1,13997077167,True
+AMB-032,19.2111613,72.9692771,AVAILABLE,ICU,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board"", ""defibrillator"", ""cardiac_monitor"", ""iv_therapy"", ""advanced_airway"", ""ventilator"", ""infusion_pump"", ""icu_grade_monitoring""]",2,2228292892,True
+AMB-033,19.2102783,72.8192146,AVAILABLE,BASIC,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board""]",1,13654186020,True
+AMB-034,19.1757554,72.8739104,AVAILABLE,BASIC,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board""]",1,5938773142,True
+AMB-035,19.1492152,72.9398113,BUSY,BASIC,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board""]",1,10595278763,True
+AMB-036,19.1541903,73.0820193,AVAILABLE,BASIC,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board""]",1,2248205151,True
+AMB-037,19.1822771,73.0688264,AVAILABLE,ICU,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board"", ""defibrillator"", ""cardiac_monitor"", ""iv_therapy"", ""advanced_airway"", ""ventilator"", ""infusion_pump"", ""icu_grade_monitoring""]",2,10961027286,True
+AMB-038,19.1596422,72.8039671,AVAILABLE,BASIC,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board""]",1,7241521008,True
+AMB-039,19.0442017,72.8947556,AVAILABLE,BASIC,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board""]",1,2248800830,True
+AMB-040,19.3136602,73.0726732,BUSY,ICU,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board"", ""defibrillator"", ""cardiac_monitor"", ""iv_therapy"", ""advanced_airway"", ""ventilator"", ""infusion_pump"", ""icu_grade_monitoring""]",2,7218340543,True
+AMB-041,19.1104331,72.9019767,AVAILABLE,ALS,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board"", ""defibrillator"", ""cardiac_monitor"", ""iv_therapy"", ""advanced_airway""]",1,13808200408,True
+AMB-042,19.0918917,73.0336118,AVAILABLE,BASIC,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board""]",1,7243902257,True
+AMB-043,19.1136916,73.0662492,AVAILABLE,ALS,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board"", ""defibrillator"", ""cardiac_monitor"", ""iv_therapy"", ""advanced_airway""]",1,2248641718,True
+AMB-044,19.1847943,72.9424357,AVAILABLE,ALS,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board"", ""defibrillator"", ""cardiac_monitor"", ""iv_therapy"", ""advanced_airway""]",1,11052157458,True
+AMB-045,19.2862882,72.8685590,BUSY,BASIC,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board""]",1,11061015508,True
+AMB-046,19.1713744,72.8440706,BUSY,ICU,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board"", ""defibrillator"", ""cardiac_monitor"", ""iv_therapy"", ""advanced_airway"", ""ventilator"", ""infusion_pump"", ""icu_grade_monitoring""]",2,13856016328,True
+AMB-047,19.2213527,73.0875161,BUSY,ALS,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board"", ""defibrillator"", ""cardiac_monitor"", ""iv_therapy"", ""advanced_airway""]",1,344604462,True
+AMB-048,19.3136759,73.0909239,AVAILABLE,ALS,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board"", ""defibrillator"", ""cardiac_monitor"", ""iv_therapy"", ""advanced_airway""]",1,7271189181,True
+AMB-049,19.2160858,72.8661561,AVAILABLE,ALS,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board"", ""defibrillator"", ""cardiac_monitor"", ""iv_therapy"", ""advanced_airway""]",1,7374243917,True
+AMB-050,19.2186173,72.8684840,AVAILABLE,BASIC,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board""]",1,4235093253,True
+AMB-051,19.2285526,72.9797305,AVAILABLE,BASIC,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board""]",1,13821031428,True
+AMB-052,19.1603458,72.8555960,OFFLINE,ALS,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board"", ""defibrillator"", ""cardiac_monitor"", ""iv_therapy"", ""advanced_airway""]",1,13884585197,True
+AMB-053,19.0495511,72.9069362,OFFLINE,BASIC,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board""]",1,13691371206,True
+AMB-054,19.2196519,72.9826406,OFFLINE,ICU,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board"", ""defibrillator"", ""cardiac_monitor"", ""iv_therapy"", ""advanced_airway"", ""ventilator"", ""infusion_pump"", ""icu_grade_monitoring""]",2,13851323798,True
+AMB-055,19.3406354,72.9072516,AVAILABLE,BASIC,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board""]",1,2241478694,True
+AMB-056,19.1965626,72.9603407,AVAILABLE,BASIC,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board""]",1,1647016751,True
+AMB-057,19.3214277,72.9519318,BUSY,BASIC,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board""]",1,2242076511,True
+AMB-058,19.2709867,73.0810547,BUSY,ICU,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board"", ""defibrillator"", ""cardiac_monitor"", ""iv_therapy"", ""advanced_airway"", ""ventilator"", ""infusion_pump"", ""icu_grade_monitoring""]",2,7349908222,True
+AMB-059,19.1937165,72.9616593,BUSY,BASIC,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board""]",1,11052099189,True
+AMB-060,19.1559863,72.9402711,AVAILABLE,ALS,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board"", ""defibrillator"", ""cardiac_monitor"", ""iv_therapy"", ""advanced_airway""]",1,13576751584,True
+AMB-061,18.9461464,72.8257530,OFFLINE,ALS,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board"", ""defibrillator"", ""cardiac_monitor"", ""iv_therapy"", ""advanced_airway""]",1,2244783411,True
+AMB-062,19.2432044,73.0633058,BUSY,ALS,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board"", ""defibrillator"", ""cardiac_monitor"", ""iv_therapy"", ""advanced_airway""]",1,6627070043,True
+AMB-063,19.0461186,72.8932697,AVAILABLE,BASIC,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board""]",1,14053678588,True
+AMB-064,19.1969522,72.9742910,AVAILABLE,ALS,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board"", ""defibrillator"", ""cardiac_monitor"", ""iv_therapy"", ""advanced_airway""]",1,2228291665,True
+AMB-065,19.1543563,73.0789539,OFFLINE,ALS,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board"", ""defibrillator"", ""cardiac_monitor"", ""iv_therapy"", ""advanced_airway""]",1,7339710475,True
+AMB-066,19.1836500,73.0630785,AVAILABLE,BASIC,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board""]",1,7345518134,True
+AMB-067,19.3020557,73.0822330,BUSY,ICU,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board"", ""defibrillator"", ""cardiac_monitor"", ""iv_therapy"", ""advanced_airway"", ""ventilator"", ""infusion_pump"", ""icu_grade_monitoring""]",2,2221471014,True
+AMB-068,18.9249898,72.9703652,AVAILABLE,BASIC,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board""]",1,9146478458,True
+AMB-069,19.2559732,72.8729998,OFFLINE,BASIC,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board""]",1,7375261132,True
+AMB-070,19.2375656,72.9903975,AVAILABLE,ALS,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board"", ""defibrillator"", ""cardiac_monitor"", ""iv_therapy"", ""advanced_airway""]",1,7266087730,True
+AMB-071,19.0818891,72.9001042,OFFLINE,ALS,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board"", ""defibrillator"", ""cardiac_monitor"", ""iv_therapy"", ""advanced_airway""]",1,13716274630,True
+AMB-072,19.2664140,73.0929261,AVAILABLE,ALS,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board"", ""defibrillator"", ""cardiac_monitor"", ""iv_therapy"", ""advanced_airway""]",1,7324673447,True
+AMB-073,19.1405278,72.8989863,AVAILABLE,ALS,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board"", ""defibrillator"", ""cardiac_monitor"", ""iv_therapy"", ""advanced_airway""]",1,5939682767,True
+AMB-074,19.0400625,72.9342860,OFFLINE,BASIC,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board""]",1,7365885085,True
+AMB-075,19.3325249,73.1013593,AVAILABLE,ALS,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board"", ""defibrillator"", ""cardiac_monitor"", ""iv_therapy"", ""advanced_airway""]",1,7290796741,True
+AMB-076,19.2197264,72.9651640,AVAILABLE,ICU,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board"", ""defibrillator"", ""cardiac_monitor"", ""iv_therapy"", ""advanced_airway"", ""ventilator"", ""infusion_pump"", ""icu_grade_monitoring""]",2,9415588871,True
+AMB-077,19.1653239,72.8561560,BUSY,ICU,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board"", ""defibrillator"", ""cardiac_monitor"", ""iv_therapy"", ""advanced_airway"", ""ventilator"", ""infusion_pump"", ""icu_grade_monitoring""]",2,13881402360,True
+AMB-078,19.0700382,73.0903160,AVAILABLE,BASIC,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board""]",1,2250537618,True
+AMB-079,19.1676090,72.9480424,AVAILABLE,BASIC,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board""]",1,13594658516,True
+AMB-080,19.1973835,72.9716170,AVAILABLE,ALS,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board"", ""defibrillator"", ""cardiac_monitor"", ""iv_therapy"", ""advanced_airway""]",1,1184053756,True
+AMB-081,19.0778161,72.8537854,AVAILABLE,BASIC,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board""]",1,10925931736,True
+AMB-082,19.1235911,72.8228355,AVAILABLE,ICU,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board"", ""defibrillator"", ""cardiac_monitor"", ""iv_therapy"", ""advanced_airway"", ""ventilator"", ""infusion_pump"", ""icu_grade_monitoring""]",2,13452036064,True
+AMB-083,18.9491074,72.9565028,BUSY,BASIC,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board""]",1,9162085035,True
+AMB-084,19.0558993,73.0044015,AVAILABLE,ICU,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board"", ""defibrillator"", ""cardiac_monitor"", ""iv_therapy"", ""advanced_airway"", ""ventilator"", ""infusion_pump"", ""icu_grade_monitoring""]",2,10129336100,True
+AMB-085,19.0319562,73.0646385,AVAILABLE,ICU,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board"", ""defibrillator"", ""cardiac_monitor"", ""iv_therapy"", ""advanced_airway"", ""ventilator"", ""infusion_pump"", ""icu_grade_monitoring""]",2,3471663141,True
+AMB-086,19.1532553,72.9481928,AVAILABLE,ALS,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board"", ""defibrillator"", ""cardiac_monitor"", ""iv_therapy"", ""advanced_airway""]",1,13584404973,True
+AMB-087,19.0549287,72.8984164,AVAILABLE,BASIC,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board""]",1,10279809019,True
+AMB-088,19.2971966,73.0757895,AVAILABLE,BASIC,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board""]",1,7365783614,True
+AMB-089,18.9975912,72.8200255,AVAILABLE,ALS,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board"", ""defibrillator"", ""cardiac_monitor"", ""iv_therapy"", ""advanced_airway""]",1,13999500711,True
+AMB-090,18.8846088,73.0119127,BUSY,BASIC,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board""]",1,11027231651,True
+AMB-091,19.0370029,73.0144469,AVAILABLE,ALS,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board"", ""defibrillator"", ""cardiac_monitor"", ""iv_therapy"", ""advanced_airway""]",1,13542618575,True
+AMB-092,19.0025904,72.8122547,BUSY,ALS,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board"", ""defibrillator"", ""cardiac_monitor"", ""iv_therapy"", ""advanced_airway""]",1,13454809827,True
+AMB-093,18.9815018,73.0512093,AVAILABLE,ALS,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board"", ""defibrillator"", ""cardiac_monitor"", ""iv_therapy"", ""advanced_airway""]",1,12992194490,True
+AMB-094,19.1579355,73.0773306,AVAILABLE,ALS,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board"", ""defibrillator"", ""cardiac_monitor"", ""iv_therapy"", ""advanced_airway""]",1,13942321617,True
+AMB-095,19.1486773,72.9982918,BUSY,BASIC,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board""]",1,12298829464,True
+AMB-096,19.2263851,72.9968634,BUSY,ALS,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board"", ""defibrillator"", ""cardiac_monitor"", ""iv_therapy"", ""advanced_airway""]",1,12393283000,True
+AMB-097,19.3483619,72.9106915,OFFLINE,ALS,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board"", ""defibrillator"", ""cardiac_monitor"", ""iv_therapy"", ""advanced_airway""]",1,7331198979,True
+AMB-098,19.1607914,72.8552180,BUSY,BASIC,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board""]",1,13884688710,True
+AMB-099,19.3201849,73.0613109,AVAILABLE,ALS,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board"", ""defibrillator"", ""cardiac_monitor"", ""iv_therapy"", ""advanced_airway""]",1,7340222881,True
+AMB-100,19.2153612,72.8337678,AVAILABLE,ALS,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board"", ""defibrillator"", ""cardiac_monitor"", ""iv_therapy"", ""advanced_airway""]",1,7345105030,True
+AMB-101,19.0866832,73.0129070,AVAILABLE,ALS,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board"", ""defibrillator"", ""cardiac_monitor"", ""iv_therapy"", ""advanced_airway""]",1,7375039675,True
+AMB-102,19.0651737,72.9998592,BUSY,ICU,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board"", ""defibrillator"", ""cardiac_monitor"", ""iv_therapy"", ""advanced_airway"", ""ventilator"", ""infusion_pump"", ""icu_grade_monitoring""]",2,13979791135,True
+AMB-103,19.2136059,72.8739654,OFFLINE,ICU,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board"", ""defibrillator"", ""cardiac_monitor"", ""iv_therapy"", ""advanced_airway"", ""ventilator"", ""infusion_pump"", ""icu_grade_monitoring""]",2,12412573194,True
+AMB-104,19.2511409,72.8452461,BUSY,BASIC,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board""]",1,4233167609,True
+AMB-105,19.2533797,73.0888706,BUSY,ICU,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board"", ""defibrillator"", ""cardiac_monitor"", ""iv_therapy"", ""advanced_airway"", ""ventilator"", ""infusion_pump"", ""icu_grade_monitoring""]",2,7330641662,True
+AMB-106,19.2341078,72.9719672,AVAILABLE,BASIC,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board""]",1,13805824643,True
+AMB-107,18.9196243,72.8246057,AVAILABLE,BASIC,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board""]",1,11047883239,True
+AMB-108,18.9664433,73.0350772,AVAILABLE,BASIC,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board""]",1,13654395291,True
+AMB-109,19.3063528,73.0515893,BUSY,ALS,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board"", ""defibrillator"", ""cardiac_monitor"", ""iv_therapy"", ""advanced_airway""]",1,7284063924,True
+AMB-110,19.1687906,72.9684814,AVAILABLE,ICU,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board"", ""defibrillator"", ""cardiac_monitor"", ""iv_therapy"", ""advanced_airway"", ""ventilator"", ""infusion_pump"", ""icu_grade_monitoring""]",2,2237026525,True
+AMB-111,18.8299691,72.9974766,BUSY,ALS,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board"", ""defibrillator"", ""cardiac_monitor"", ""iv_therapy"", ""advanced_airway""]",1,2230613190,True
+AMB-112,19.1429580,73.0466937,BUSY,BASIC,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board""]",1,3508498248,True
+AMB-113,19.0593932,73.0204055,AVAILABLE,ICU,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board"", ""defibrillator"", ""cardiac_monitor"", ""iv_therapy"", ""advanced_airway"", ""ventilator"", ""infusion_pump"", ""icu_grade_monitoring""]",2,7370908709,True
+AMB-114,18.9814707,72.8420112,AVAILABLE,ICU,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board"", ""defibrillator"", ""cardiac_monitor"", ""iv_therapy"", ""advanced_airway"", ""ventilator"", ""infusion_pump"", ""icu_grade_monitoring""]",2,12430189744,True
+AMB-115,19.1449372,72.8011631,OFFLINE,BASIC,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board""]",1,2146838132,True
+AMB-116,19.0157966,72.8224086,AVAILABLE,ALS,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board"", ""defibrillator"", ""cardiac_monitor"", ""iv_therapy"", ""advanced_airway""]",1,14002155264,True
+AMB-117,19.1450456,72.9605218,AVAILABLE,BASIC,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board""]",1,2237026139,True
+AMB-118,19.1142402,72.8494619,AVAILABLE,BASIC,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board""]",1,13475949104,True
+AMB-119,19.2658746,72.9720688,BUSY,BASIC,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board""]",1,13805823170,True
+AMB-120,19.2776901,73.0545612,BUSY,BASIC,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board""]",1,7353295696,True
+AMB-121,19.0658179,72.8668387,AVAILABLE,BASIC,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board""]",1,10779234822,True
+AMB-122,19.1946806,72.9756004,BUSY,BASIC,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board""]",1,414725181,True
+AMB-123,19.2157506,72.9755844,AVAILABLE,ALS,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board"", ""defibrillator"", ""cardiac_monitor"", ""iv_therapy"", ""advanced_airway""]",1,13780461607,True
+AMB-124,19.1813406,72.9423061,BUSY,ICU,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board"", ""defibrillator"", ""cardiac_monitor"", ""iv_therapy"", ""advanced_airway"", ""ventilator"", ""infusion_pump"", ""icu_grade_monitoring""]",2,13584223415,True
+AMB-125,18.8916264,72.9294133,AVAILABLE,ICU,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board"", ""defibrillator"", ""cardiac_monitor"", ""iv_therapy"", ""advanced_airway"", ""ventilator"", ""infusion_pump"", ""icu_grade_monitoring""]",2,4162950076,True
+AMB-126,19.2358211,72.8611191,AVAILABLE,BASIC,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board""]",1,245682271,True
+AMB-127,19.0119015,72.8333313,AVAILABLE,ALS,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board"", ""defibrillator"", ""cardiac_monitor"", ""iv_therapy"", ""advanced_airway""]",1,13533480580,True
+AMB-128,19.2103089,72.9815231,AVAILABLE,BASIC,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board""]",1,11582337799,True
+AMB-129,19.1148041,72.8607373,BUSY,ICU,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board"", ""defibrillator"", ""cardiac_monitor"", ""iv_therapy"", ""advanced_airway"", ""ventilator"", ""infusion_pump"", ""icu_grade_monitoring""]",2,3878413303,True
+AMB-130,19.2122972,72.8685468,AVAILABLE,BASIC,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board""]",1,3792771207,True
+AMB-131,19.1911489,72.9430189,BUSY,ICU,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board"", ""defibrillator"", ""cardiac_monitor"", ""iv_therapy"", ""advanced_airway"", ""ventilator"", ""infusion_pump"", ""icu_grade_monitoring""]",2,2230389415,True
+AMB-132,19.2326774,72.9679047,AVAILABLE,ALS,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board"", ""defibrillator"", ""cardiac_monitor"", ""iv_therapy"", ""advanced_airway""]",1,10925962268,True
+AMB-133,19.0318173,72.8883681,BUSY,BASIC,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board""]",1,13681592018,True
+AMB-134,19.1098709,72.8376297,AVAILABLE,BASIC,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board""]",1,13473740128,True
+AMB-135,19.2346556,73.0823690,BUSY,ICU,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board"", ""defibrillator"", ""cardiac_monitor"", ""iv_therapy"", ""advanced_airway"", ""ventilator"", ""infusion_pump"", ""icu_grade_monitoring""]",2,13710892771,True
+AMB-136,19.1413922,73.0048899,AVAILABLE,ALS,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board"", ""defibrillator"", ""cardiac_monitor"", ""iv_therapy"", ""advanced_airway""]",1,7362730818,True
+AMB-137,19.1356172,73.0762880,AVAILABLE,ICU,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board"", ""defibrillator"", ""cardiac_monitor"", ""iv_therapy"", ""advanced_airway"", ""ventilator"", ""infusion_pump"", ""icu_grade_monitoring""]",2,2246848973,True
+AMB-138,19.3442702,72.9194633,AVAILABLE,ICU,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board"", ""defibrillator"", ""cardiac_monitor"", ""iv_therapy"", ""advanced_airway"", ""ventilator"", ""infusion_pump"", ""icu_grade_monitoring""]",2,904821273,True
+AMB-139,19.0207432,72.8309211,BUSY,BASIC,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board""]",1,13543933432,True
+AMB-140,19.1420317,72.8491970,AVAILABLE,ICU,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board"", ""defibrillator"", ""cardiac_monitor"", ""iv_therapy"", ""advanced_airway"", ""ventilator"", ""infusion_pump"", ""icu_grade_monitoring""]",2,13859362743,True
+AMB-141,19.1650277,72.9973704,AVAILABLE,BASIC,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board""]",1,4140699744,True
+AMB-142,19.1457791,72.9904119,AVAILABLE,BASIC,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board""]",1,9820367147,True
+AMB-143,19.2990357,73.0518119,AVAILABLE,BASIC,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board""]",1,7284224923,True
+AMB-144,19.1903476,72.9440997,AVAILABLE,BASIC,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board""]",1,1647048934,True
+AMB-145,19.1237861,73.0005348,BUSY,BASIC,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board""]",1,4146480074,True
+AMB-146,19.0173837,72.8267738,AVAILABLE,BASIC,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board""]",1,13529804713,True
+AMB-147,19.0559042,72.9124108,AVAILABLE,BASIC,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board""]",1,5913464759,True
+AMB-148,18.8730925,73.0595861,AVAILABLE,BASIC,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board""]",1,11027244213,True
+AMB-149,18.9187827,72.9797513,BUSY,BASIC,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board""]",1,9136014526,True
+AMB-150,19.1667229,72.9993922,AVAILABLE,ALS,"[""first_aid"", ""stretcher"", ""oxygen_basic"", ""spinal_board"", ""defibrillator"", ""cardiac_monitor"", ""iv_therapy"", ""advanced_airway""]",1,344652393,True

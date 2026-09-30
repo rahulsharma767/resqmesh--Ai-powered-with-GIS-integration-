@@ -1,0 +1,5 @@
+# Optional acceleration/runtime layer for a Snapdragon deployment.
+# Install a Qualcomm-compatible ONNX Runtime build/provider appropriate to the
+# target Snapdragon Windows environment. The core app does not require this
+# file and reports its actual runtime/provider at /api/ai/status.
+onnxruntime>=1.18.0
